@@ -10,11 +10,11 @@ $(".add-expense").click(function(event) {
    
     event.preventDefault(); 
   
-    window.location.href = "https://github.com/dt50bartosz/addExpense/settings/pages";
+    window.location.href = "https://dt50bartosz.github.io/addExpense/";
   
 });
 
-$(".add-income").click(function(event) {
+$(".balance").click(function(event) {
    
     event.preventDefault(); 
   
