@@ -217,6 +217,7 @@ nav button:hover {
     height: 250px;
     border-radius: 20px;
     transition: width 2s, height 2s, transform 2s;
+    cursor: pointer;
    
 }
 
